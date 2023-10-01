@@ -649,6 +649,7 @@ int main() {
     return 0;
 }
 ```
+S'hauria de modificar el p.pokemon_id per pikachu.pokemon_id i el mateix amb els altres atributs
 
 ## Automatització de la compilació
 
