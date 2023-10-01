@@ -10,3 +10,4 @@ editable = true
 
 [output.html.code.hidelines]
 sh = "~"
+c = "~"
