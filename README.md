@@ -5,9 +5,9 @@ Material educatiu desenvolupat per un curs de Sistemes Operatius. Té la finalit
 
 Les pràctiques presentades en aquest llibre aborden:
 
-* Gestió de processos
-* Gestió de memòria
-* Planificació de tasques
-* Interbloqueig
-* Scripting
-* Programació amb C
+* Gestió de processos.
+* Gestió de memòria.
+* Planificació de tasques.
+* Interbloqueig.
+* Scripting.
+* Programació amb C.
