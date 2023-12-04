@@ -32,3 +32,4 @@
 
 # HandsOn-05: Programació de Scripts
 - [Bash](./HandsOn-05/bash.md)
+- [Exercicis](./HandsOn-05/exercicis.md)
