@@ -255,12 +255,9 @@ EOF
 
 IFS=';'
 while read user password status; do
-  if [ "$status" -eq 1 ]; then
     echo "User: $user"
     echo "Password: $password"
     echo "Status: $status"
-    echo
-  fi
 done < users.txt
 
 rm users.txt
