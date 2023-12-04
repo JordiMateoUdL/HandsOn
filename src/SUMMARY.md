@@ -29,3 +29,6 @@
 
 # HandsOn-04: Deadlocks
 - [Deadlocks](./HandsOn-04/deadlocks.md)
+
+# HandsOn-05: Programació de Scripts
+- [Bash](./HandsOn-05/bash.md)
