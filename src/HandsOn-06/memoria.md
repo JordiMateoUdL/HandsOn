@@ -105,7 +105,7 @@ L'adreça lògica és dividida en dues parts: el desplaçament i el número de p
 En aquesta taula la x representa totes les combinacions de 0 i 1.
 
 Com P1 té una mida total de 18KBytes, el nombre de pàgines és \\(\dfrac{18KBytes}{8KBytes}=2.25\\), per tant, necessitem 2 pàgines i 1/4 de pàgina. Per tant, la pagina 0 i 1 estan plenes i la pàgina 2 està a 1/4.
-2KBytes = //(2^11 //)Bytes és 0011111111111 en binari.
+2KBytes = \\(2^11 \\)Bytes és 0011111111111 en binari.
 
 #### Fragmentació
 
