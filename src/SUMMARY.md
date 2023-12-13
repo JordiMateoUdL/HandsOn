@@ -33,3 +33,7 @@
 # HandsOn-05: Programació de Scripts
 - [Bash](./HandsOn-05/bash.md)
 - [Exercicis](./HandsOn-05/exercicis.md)
+
+# HandsOn-06: Gestiò de Memòria
+- [Memòria](./HandsOn-06/memoria.md)
+- [Processos](./HandsOn-06/processos.md)
