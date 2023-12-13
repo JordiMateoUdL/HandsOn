@@ -1,6 +1,6 @@
 # Gestió de Memòria
 
-## Sistemes de Gestiò de Memòria
+## Sistemes de Gestió de Memòria
 
 Assuemix un sistema operatiu amb un únic espai d'adreçament lògic, amb algunes adreçes reservades pel nucli (kernel), i d'altres per l'espai d'usuari. El nucli d'aquest sistema operatiu de 64 bits admet un màxim de \\( 4194304\\) processos a la taula de processos, i al nucli se li assigna la meitat de l'espai d'adreces lògiques. Si l'espai d'adreces de memòria es divideix equitativament entre tots els processos, quant espai d'adreces lògiques es reservaria com a mínim per a cada procés amb el nombre màxim de processos en execució?
 
