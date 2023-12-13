@@ -105,7 +105,7 @@ Assumirem un sistema amb 5 processos \\( p_0, p_1, p_2, p_3, p_4\\) i 3 tipus de
 Per resoldre aquest problema, primer hem de veure si estem en un estat segur.
 
 1. Sol·licitem el recurs \\( Sol·licitud_{1}(1,0,2)\\)
-2. \\( Sol·licitud_{1}(1,0,2) \leq Necessitat_{1}(0,2,0)\\) -> Si
+2. \\( Sol·licitud_{1}(1,0,2) \leq Necessitat_{1}(1,2,2)\\) -> Si
 3. \\( Sol·licitud_{1}(1,0,2) \leq Disponible(3,3,2)\\) -> Si
 4. Actualitzem:
    - \\(Disponible =  Disponible - Sol·licitud_{1}(1,0,2) = (2,3,0)\\)
@@ -584,7 +584,7 @@ Si calculem la matriu \\(A^3\\), obtenim:
 \end{gathered}
 \\]
 
-Els procesos \\(p_1\\), \\(p_2\\) i \\(p_3\\) estan en interbloqueix. Formen part d'un cicle de longitud 4.
+Els procesos \\(p_1\\), \\(p_2\\) i \\(p_3\\) estan en interbloqueix. Formen part d'un cicle de longitud 3.
 
 Si calculem la matriu \\(A^4\\), obtenim:
 
